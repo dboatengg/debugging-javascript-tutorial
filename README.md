@@ -1,7 +1,7 @@
 ﻿# Chrome DevTools Tutorial
  We are going to learn how to debug your Javascript code using Chrome DevTools.<br>
  - Read the tutorial [here](https://boatengg.hashnode.dev/a-complete-guide-to-debugging-javascript-in-chrome)<br>
- - View demo project [here](https://boatengg.hashnode.dev/a-complete-guide-to-debugging-javascript-in-chrome)
+ - View demo project [here](https://devtools-demo.netlify.app/)
  
  
  ## Table of Contents
