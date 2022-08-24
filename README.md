@@ -17,4 +17,4 @@
  - [Boateng Dickson](https://www.twitter.com/dboatengx)
 
 ## License
-This project is open source and available under the [MIT License](license.md)
+This project is open source and available under the [MIT License]([license.md](https://github.com/dboatengg/A-Complete-Guide-to-Debugging-Javascript-in-Chrome/blob/main/LICENSE.md))
