@@ -1,5 +1,17 @@
-﻿# devtools-demo
+﻿# Chrome DevTools Tutorial
+ We are going to learn how to debug your Javascript code using Chrome DevTools.<br>
+ - Read the tutorial [here](https://boatengg.hashnode.dev/a-complete-guide-to-debugging-javascript-in-chrome)<br>
+ - View demo project [here](https://boatengg.hashnode.dev/a-complete-guide-to-debugging-javascript-in-chrome)
  
-I created this project for an article I wrote on Chrome Developer Tools.
+ 
+ ## Table of Contents
+- What Does Debugging Mean?
+- What is Chrome Developer Tools?
+- The Sources Panel
+- Example Page Project
+- The Console.log Method
+- Debugging JavaScript with DevTools
+- Wrapping Up
 
-Article name: **Complete Guide to debug JavaScript in Chrome.**
+ ## Author
+ - [Boateng Dickson](https://www.twitter.com/dboatengx)
