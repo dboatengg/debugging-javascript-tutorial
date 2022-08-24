@@ -15,3 +15,6 @@
 
  ## Author
  - [Boateng Dickson](https://www.twitter.com/dboatengx)
+
+## License
+This project is open source and available under the [MIT License](license.md)
